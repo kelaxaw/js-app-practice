@@ -1,3 +1,3 @@
-# Udemy-JS-React
+# Udemy-JS
 Food restaurant /delivery website
 
