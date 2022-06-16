@@ -1,3 +1,2 @@
-# Udemy-JS
-Food restaurant /delivery website
+# Food restaurant /delivery website
 
